@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment 03 EFCore", "Assignment 03 EFCore\Assignment 03 EFCore.csproj", "{215DAF89-5CF4-4F0B-8F4F-CB3E39AF0F08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{215DAF89-5CF4-4F0B-8F4F-CB3E39AF0F08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{215DAF89-5CF4-4F0B-8F4F-CB3E39AF0F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{215DAF89-5CF4-4F0B-8F4F-CB3E39AF0F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{215DAF89-5CF4-4F0B-8F4F-CB3E39AF0F08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
